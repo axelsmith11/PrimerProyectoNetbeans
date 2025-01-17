@@ -11,6 +11,6 @@ package com.mycompany.holamundo;
 public class HolaMundo {
 
     public static void main(String[] args) {
-        System.out.println("Habla pe bandida tengo mototaxi !");
+        System.out.println("Primer Proyecto Java");
     }
 }
