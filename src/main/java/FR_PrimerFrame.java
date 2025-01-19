@@ -71,7 +71,7 @@ public class FR_PrimerFrame extends javax.swing.JFrame {
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
         // TODO add your handling code here:
-        TXT1.setText("Primer Proyecto Java");
+        TXT1.setText("Mi nombre es Axel Smith Mestanza Cabrera");
     }//GEN-LAST:event_jButton1ActionPerformed
 
     /**
